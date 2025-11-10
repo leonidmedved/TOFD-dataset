@@ -129,4 +129,9 @@ The dataset can be used for:
 - training segmentation models (U‑Net, U‑Net++, Attention U‑Net, etc.),
 - testing robustness on synthetic vs. real data,
 - developing signal filtering and post-processing methods.
+  
+## License
 
+This dataset is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.  
+You are free to use and modify the data for research and educational purposes, but commercial use is not permitted.  
+See the [LICENSE](./LICENSE) file for details.
