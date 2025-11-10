@@ -4,7 +4,7 @@
 This dataset is intended for training and validating neural networks for defect segmentation from TOFD (Time‑of‑Flight Diffraction) data.
 
 Includes:
-- **Synthetic data** — echo signals simulated in the CIVA software package using the beam-tube method.
+- **Synthetic data** — echo signals simulated in the CIVA software package using the pencil method.
 - **Real data** — measurements performed on blocks with purposely introduced defects.
 
 Data are split into training and validation sets.
