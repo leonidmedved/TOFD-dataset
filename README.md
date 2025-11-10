@@ -5,7 +5,7 @@ This dataset is intended for training and validating neural networks for defect 
 
 Includes:
 - **Synthetic data** — echo signals simulated in the CIVA software package using the beam-tube method.
-- **Real data** — measurements performed on samples with purposely introduced defects.
+- **Real data** — measurements performed on blocks with purposely introduced defects.
 
 Data are split into training and validation sets.
 
@@ -76,7 +76,7 @@ The following defect types were modeled:
 - Bottom (root) cracks
 - Internal cracks
 - Near-surface cracks
-- Spherical defects (SDH)
+- Spherical defects 
 - Lateral cylindrical holes (simulating lack of fusion)
 
 **Ranges of defect parameters:**
